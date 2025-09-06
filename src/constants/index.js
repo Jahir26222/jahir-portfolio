@@ -90,7 +90,7 @@ export const experiences = [
   company_name: "Bachelor of Science in IT",
   icon: graduate,
   iconBg: "#a2d2ff",
-  date: "2022 - 2024",
+  date: "2022 - 2025",
   points: [
     "Studied programming, databases, and web development fundamentals.",
     "Completed academic projects using HTML, CSS, JavaScript, and React.",
